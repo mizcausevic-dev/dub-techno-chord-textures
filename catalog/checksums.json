@@ -388,8 +388,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3997,
-      "sha256": "f4cf54f733784f6d83a2c553b75caf29250018e0f2f67a897c5769a5c0dc4ead"
+      "bytes": 4003,
+      "sha256": "015bd589ffb72e331f40c9a3ec16e39e97a4caf66a0c27a0e0104277a70480fa"
     },
     {
       "path": "social/instagram/caption.txt",
@@ -423,8 +423,8 @@
     },
     {
       "path": "tools/build_release.py",
-      "bytes": 147457,
-      "sha256": "97c986fb7994c8dd519b8f85696af96d32241a668111f4ffe4c3e2c241e1385c"
+      "bytes": 147463,
+      "sha256": "c692d41432c4d2932319ff9ad118ba1316a1d8d8bb058790337649670fc3af2d"
     },
     {
       "path": "tools/polish_release.py",
