@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/dub-techno-chord-textures-simple-synth-preview.mp3",
+  "preview_sha256": "1a838425cf4576c4708b7cb684f5f7738078a6994fbb70dd8640978b469b2d95",
+  "source_midi_path": "midi/z1601-dub-techno-chord-textures-opening/z1601-dub-techno-chord-textures-opening-combined.mid",
+  "source_midi_sha256": "0dd89e241a79c0b410f004cd520a94f3354a427b846d793f612fe8fbac6a2c7e",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "z1601",
+    "start_seconds": 0,
+    "end_seconds": 58.182
+  },
+  "measurement": {
+    "sample_peak": 0.144249,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

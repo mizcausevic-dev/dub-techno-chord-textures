@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:57:45.133230+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z1601-dub-techno-chord-textures-opening/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "c8b1ac39e317ea7bc3c5121d8f3dba65666056a8dbb5af1b34796893b02bb9e3",
+      "errors": []
+    },
+    {
+      "path": "midi/z1601-dub-techno-chord-textures-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "03aac199d85595d3c8d6880434f5090b664e035d4a00df8230b69f952a54cad2",
+      "errors": []
+    },
+    {
+      "path": "midi/z1601-dub-techno-chord-textures-opening/drums.mid",
+      "bytes": 2986,
+      "sha256": "965e57dab9ba2eef5a9401edd751709a31bb1a59558530d982d3ebe58c47ddb1",
+      "errors": []
+    },
+    {
+      "path": "midi/z1601-dub-techno-chord-textures-opening/principal_motif.mid",
+      "bytes": 816,
+      "sha256": "dc7314ad32e0d2234f56031ba112fc3488b41ccc71661447d9c2f336b6440558",
+      "errors": []
+    },
+    {
+      "path": "midi/z1601-dub-techno-chord-textures-opening/sub_bass.mid",
+      "bytes": 845,
+      "sha256": "e97abd689662e725e6d810752ededc274f5de2b2f67418c2681086e455d7d16c",
+      "errors": []
+    },
+    {
+      "path": "midi/z1601-dub-techno-chord-textures-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "1809e632aa8a01c6d74ea435a03e6bc7d3a33b429006605311a8a646d59f2b94",
+      "errors": []
+    },
+    {
+      "path": "midi/z1601-dub-techno-chord-textures-opening/z1601-dub-techno-chord-textures-opening-combined.mid",
+      "bytes": 6061,
+      "sha256": "0dd89e241a79c0b410f004cd520a94f3354a427b846d793f612fe8fbac6a2c7e",
+      "errors": []
+    },
+    {
+      "path": "midi/z1602-dub-techno-chord-textures-variation/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "5ec0607499c071dca4a04bf00a9ed3d5904f16ac0f83f0d85e3f3a01a3208c00",
+      "errors": []
+    },
+    {
+      "path": "midi/z1602-dub-techno-chord-textures-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "1fa2e90f241613877e96c84d2c17c85bccfde11402dd1f7f1c99e42c877dd4f2",
+      "errors": []
+    },
+    {
+      "path": "midi/z1602-dub-techno-chord-textures-variation/drums.mid",
+      "bytes": 2986,
+      "sha256": "965e57dab9ba2eef5a9401edd751709a31bb1a59558530d982d3ebe58c47ddb1",
+      "errors": []
+    },
+    {
+      "path": "midi/z1602-dub-techno-chord-textures-variation/principal_motif.mid",
+      "bytes": 816,
+      "sha256": "44eb89b82cdb47cb14c797d4e2f3c883a1554589dd24d059e3cf2c798cf7eb3b",
+      "errors": []
+    },
+    {
+      "path": "midi/z1602-dub-techno-chord-textures-variation/sub_bass.mid",
+      "bytes": 845,
+      "sha256": "4bec6f8160a550ada780939cfe9562d09496df153ec159f211106f1145586fee",
+      "errors": []
+    },
+    {
+      "path": "midi/z1602-dub-techno-chord-textures-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "3bc87192f9f95f0af415def06f3d34665ec56a8c5ecada2235797f42d57a0325",
+      "errors": []
+    },
+    {
+      "path": "midi/z1602-dub-techno-chord-textures-variation/z1602-dub-techno-chord-textures-variation-combined.mid",
+      "bytes": 6061,
+      "sha256": "3335abdaef9fa4a8dd8164a218dff391e42388ea01917772c24024e62acfd86d",
+      "errors": []
+    },
+    {
+      "path": "midi/z1603-dub-techno-chord-textures-contrast/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "f73cfe0560f63eaf01053499bf2f0be23e73f7b9eb6989926e1969a36b8b78a0",
+      "errors": []
+    },
+    {
+      "path": "midi/z1603-dub-techno-chord-textures-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "11384ae9a5fcf783cd49c5503546bcf4d354e6ed9bc06db3c693e00d6e8c1add",
+      "errors": []
+    },
+    {
+      "path": "midi/z1603-dub-techno-chord-textures-contrast/drums.mid",
+      "bytes": 2986,
+      "sha256": "965e57dab9ba2eef5a9401edd751709a31bb1a59558530d982d3ebe58c47ddb1",
+      "errors": []
+    },
+    {
+      "path": "midi/z1603-dub-techno-chord-textures-contrast/principal_motif.mid",
+      "bytes": 782,
+      "sha256": "38d8b55a0fd46d3401b4058a701b2b0268158da9bba2f54b6e18043e463daf5d",
+      "errors": []
+    },
+    {
+      "path": "midi/z1603-dub-techno-chord-textures-contrast/sub_bass.mid",
+      "bytes": 845,
+      "sha256": "8084f4c2e6bcc53c63fe4b258ffa14f666ad0543c46818280d15b4e8f15f2fae",
+      "errors": []
+    },
+    {
+      "path": "midi/z1603-dub-techno-chord-textures-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "3e34c494a06663538bd60e4ee3a37df14ddd37623d4259763d44b07bd5612de8",
+      "errors": []
+    },
+    {
+      "path": "midi/z1603-dub-techno-chord-textures-contrast/z1603-dub-techno-chord-textures-contrast-combined.mid",
+      "bytes": 6027,
+      "sha256": "e5e36eba0baeb74c6d941d699afaccb0a82e7c7bd0e8de60bc0622a740e395ac",
+      "errors": []
+    },
+    {
+      "path": "midi/z1604-dub-techno-chord-textures-return/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "44cbe6420b898fb00ca76df04239b58cb1cb2259b8992aff807dfd123587aae4",
+      "errors": []
+    },
+    {
+      "path": "midi/z1604-dub-techno-chord-textures-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "88cc50167ec4d7045cf3bf73e58ecf697323dbed011843e82ec7e2798052555e",
+      "errors": []
+    },
+    {
+      "path": "midi/z1604-dub-techno-chord-textures-return/drums.mid",
+      "bytes": 2986,
+      "sha256": "965e57dab9ba2eef5a9401edd751709a31bb1a59558530d982d3ebe58c47ddb1",
+      "errors": []
+    },
+    {
+      "path": "midi/z1604-dub-techno-chord-textures-return/principal_motif.mid",
+      "bytes": 782,
+      "sha256": "338ea00c498caba8e9a693c4ff065d50faed7c3b2544481724716fee3358fbef",
+      "errors": []
+    },
+    {
+      "path": "midi/z1604-dub-techno-chord-textures-return/sub_bass.mid",
+      "bytes": 845,
+      "sha256": "2a1a83865cedd00a6ee14e6c7a3391e95aec49c1b7955a8503e9f50608e6efe1",
+      "errors": []
+    },
+    {
+      "path": "midi/z1604-dub-techno-chord-textures-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "058f313a1a891310b59508cd4baa4cbd76dffbd358cda45e932b63083a47d1ae",
+      "errors": []
+    },
+    {
+      "path": "midi/z1604-dub-techno-chord-textures-return/z1604-dub-techno-chord-textures-return-combined.mid",
+      "bytes": 6027,
+      "sha256": "ec937ecbb19a7ddd9f0481f84979fe35f70df91cb77c69b63dfd9138197bb6e2",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

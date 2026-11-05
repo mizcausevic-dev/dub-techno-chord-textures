@@ -1,0 +1,26 @@
+{
+  "title": "Dub Techno Chord Textures",
+  "study": "z1601",
+  "bpm": 132,
+  "source_audio": "preview/dub-techno-chord-textures-simple-synth-preview.mp3",
+  "source_audio_sha256": "1a838425cf4576c4708b7cb684f5f7738078a6994fbb70dd8640978b469b2d95",
+  "source_midi": "midi/z1601-dub-techno-chord-textures-opening/z1601-dub-techno-chord-textures-opening-combined.mid",
+  "source_midi_sha256": "0dd89e241a79c0b410f004cd520a94f3354a427b846d793f612fe8fbac6a2c7e",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "15055708a8d1dda444583c3c9d605582d2c5424a9f74d7ef560635695b890e3b",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "4c9f07831a90b09013cf3d7d0058a3ee5e46a6a97b3b631b946155d119e5d9d2",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "89a28f27130e8bd188e775cc143dee3937d62bb65ffb0d483354aabcd94f1dad",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
