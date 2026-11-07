@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/dub-techno-chord-textures-midi.zip",
-      "bytes": 33056,
-      "sha256": "2ca86766b3ed939ac8e3ba951420ec5a5d82dbf7a102fe3ab5a2de32f7051b83"
+      "bytes": 34043,
+      "sha256": "9870dfb680f5c3abfb714bf719a0fa43a6353921e6752a88967bdfcb31b519e5"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10044,
-      "sha256": "8a51cddf4b83a2c2ab61fcbc4ebc01de8e3a17efe7a9e3eecedcf90d2c2531cf"
+      "bytes": 10234,
+      "sha256": "538bfe0b1e3d125cbdeac28c1e9726d457b07930f24bc66234c770a62e830d82"
     },
     {
       "path": "midi/z1601-dub-techno-chord-textures-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "ec937ecbb19a7ddd9f0481f84979fe35f70df91cb77c69b63dfd9138197bb6e2"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/dub-techno-chord-textures-simple-synth-preview.mp3",
       "bytes": 1410029,
       "sha256": "1a838425cf4576c4708b7cb684f5f7738078a6994fbb70dd8640978b469b2d95"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4003,
-      "sha256": "015bd589ffb72e331f40c9a3ec16e39e97a4caf66a0c27a0e0104277a70480fa"
+      "bytes": 4118,
+      "sha256": "1fe68a71fc265a0959e45db496aa25bd7e21c78a6a77a8b55aea61d55c29bf39"
     },
     {
       "path": "social/instagram/caption.txt",
